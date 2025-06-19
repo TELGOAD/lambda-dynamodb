@@ -37,6 +37,13 @@ https://pwxe8kh34d.execute-api.us-east-1.amazonaws.com/prod
 https://pwxe8kh34d.execute-api.us-east-1.amazonaws.com/prod
 <img width="815" alt="image" src="https://github.com/user-attachments/assets/9d7fa8df-97e9-49bc-a435-c6f78818532a" />
 
+Lamda Function SS
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/e6c082df-6b0e-401a-8cc7-09ae6c3becb0" />
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/67326e6b-a71b-49e7-ab4f-f5ea90bb0428" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/df8ae8c9-f3ae-427e-9090-22c3629993cf" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/8844156f-6d70-4589-a91c-3018ff2ec800" />
+
 
 
 ---
